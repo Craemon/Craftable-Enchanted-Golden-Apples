@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:air"
+            "id": "minecraft:enchanted_golden_apple"
         },
-        "title": "Craftable Air",
-        "description": "Craft Air from Air!",
+        "title": "Craftable Enchanted Golden Apple",
+        "description": "Reintroduces the recipe of the enchanted golden apple!",
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false
