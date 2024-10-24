@@ -4,7 +4,7 @@
             "id": "minecraft:enchanted_golden_apple"
         },
         "title": "Craftable Enchanted Golden Apple",
-        "description": "Reintroduces the recipe of the enchanted golden apple!",
+        "description": "Reintroduces the recipe of the god apple!",
         "frame": "task",
         "show_toast": false,
         "announce_to_chat": false
